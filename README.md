@@ -1,2 +1,4 @@
 # Politics-and-War-JS
-Puts all Politics and War API's into one simple to use library.
+This library puts all Politics and War's APIs into one simple to use module, with more as well!
+
+## Instructions
