@@ -1,0 +1,17 @@
+{
+  "name": "politics-and-war-js-master",
+  "version": "1.0.0",
+  "description": "combines all politics and war apis into one",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conmmander",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
